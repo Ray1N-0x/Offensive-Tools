@@ -2,7 +2,6 @@
 """
 recon-suite.py — Automated passive reconnaissance tool
 Author : Ray1N_0x
-License: CC BY-NC-ND 4.0
 
 Modules
 -------
@@ -28,7 +27,6 @@ import datetime
 import ipaddress
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# ── optional deps (graceful fallback) ───────────────────────────────────────
 try:
     import requests
     HAS_REQUESTS = True
@@ -48,7 +46,6 @@ except ImportError:
     HAS_WHOIS = False
 
 
-# ── constants ────────────────────────────────────────────────────────────────
 TOP_PORTS = [
     21, 22, 23, 25, 53, 80, 110, 111, 135, 139, 143, 443, 445,
     587, 631, 993, 995, 1723, 3306, 3389, 5900, 6379, 8080, 8443,
