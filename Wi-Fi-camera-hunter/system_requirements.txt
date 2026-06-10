@@ -1,0 +1,8 @@
+aircrack-ng
+nmap
+vlc
+ffmpeg
+wpa_supplicant
+dhclient
+net-tools
+wireless_tools

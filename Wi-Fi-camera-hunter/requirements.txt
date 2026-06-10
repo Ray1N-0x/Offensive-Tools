@@ -1,0 +1,15 @@
+scapy
+python-nmap
+requests
+zeep
+tqdm
+colorama
+rich
+opencv-python
+vidgear
+onvif-zeep
+Pillow
+netifaces
+pyyaml
+beautifulsoup4
+lxml
