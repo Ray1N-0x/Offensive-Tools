@@ -136,4 +136,4 @@ sudo python3 auto_hunter.py --iface wlan1
 ## Contacs
 Name: Ray1N
 Telegram: https://t.me/Ray1N_0x
-Email: Ray1N-0x@proton.me
+Email: Ray1N_0x@proton.me
