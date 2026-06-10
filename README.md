@@ -78,4 +78,23 @@ A **passive reconnaissance automation script** built for penetration testers and
 
 ---
 
+## 4. Wi-Fi-camera-hunter - Professional tool for detecting and analyzing Wi-Fi surveillance cameras
 
+**Scans, Finds, Hacks, and Connects**
+
+## Features
+
+| # | Function | Description |
+|---|---------|----------|
+| 1 | **Wi-Fi Scan** | Discover all networks in range (SSID, BSSID, channel, signal) |
+| 2 | **OUI Detection** | Database of 1000+ manufacturers (Hikvision, Dahua, TP-Link, etc.) |
+| 3 | **Client Analysis** | Shows MAC addresses of devices on each network |
+| 4 | **Handshake Capture** | Collect handshake for subsequent hacking |
+| 5 | **Password Brute Force** | Aircrack-ng + dictionaries (rockyou.txt) |
+| 6 | **Auto-Connection** | Connect to a hacked network |
+| 7 | **Camera Search** | ONVIF, RTSP, HTTP protocols |
+| 8 | **RTSP check** | Default passwords: admin/admin, admin/12345, etc. |
+| 9 | **Launch VLC** | Automatically view the found stream |
+| 10 | **Save results** | Passwords and RTSP links to files |
+
+---
